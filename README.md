@@ -42,7 +42,7 @@ A modern and responsive portfolio website built with **Next.js** and **Tailwind 
 
 ```bash
 git clone https://github.com/vnv2315/Portfolio.git
-cd portfolio
+cd Portfolio
 ```
 
 ### 2. Install dependencies
@@ -153,7 +153,7 @@ If you found this project helpful or interesting, please give it a ⭐ star on G
 
 ### 🚀 Live Demo
 
-Check out the live portfolio: **[https://vishnunv-portfolio.vercel.app](https://vishnunv-portfolio.vercel.app)**
+Check out the live portfolio: **[click here](https://vishnunv-portfolio.vercel.app)**
 
 ---
 
