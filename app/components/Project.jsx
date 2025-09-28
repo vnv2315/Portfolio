@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { ExternalLink, Github, Code2, Globe, Database, Trophy, ArrowRight, Calendar, Star } from 'lucide-react';
 import chat_app from '../../assets/chat_app.png'
 import shopiy from '../../assets/Shopiy.png'
-import UniHive from '../../assets/UniHive.png'
+import vnv_img from '../../assets/vnv_img.png'
 import Image from "next/image"; 
 
 const Project = () => {
@@ -74,23 +74,31 @@ const Project = () => {
     },
     {
       id: 3,
-      title: "UniHive",
+      title: "VNV - Full Stack E-commerce Platform",
       description:
-        "UniHive is a responsive educational platform for students and educators to manage courses, share resources, and collaborate in an interactive, mobile-friendly environment.",
-      image: UniHive,
-      technologies: ["React", "Vite", "Tailwind CSS", "Netlify"],
-      category: "Frontend",
-      type: "Frontend",
-      github: "https://github.com/your-username/unihive", // replace with your repo
+        "A modern, full-stack e-commerce website built with Next.js 14, featuring Clerk authentication, an admin panel, and background job processing with Inngest. Deployed on Vercel with MongoDB Atlas and Cloudinary integration.",
+      image: vnv_img,
+      technologies: [
+        "Next.js",
+        "Tailwind CSS",
+        "Clerk",
+        "MongoDB",
+        "Mongoose",
+        "Inngest",
+      ],
+      category: "Full Stack",
+      type: "Full Stack",
+      github: "https://github.com/vnv2315/next-ecommerce-app.git",
       featured: true,
       date: "2025",
       highlights: [
-        "Interactive Learning Modules",
-        "Responsive & Mobile-friendly",
-        "Modern UI with Tailwind",
-        "Fast Development with Vite"
+        "Seamless Clerk Authentication",
+        "Admin Panel for Products, Orders & Users",
+        "Background Jobs with Inngest",
+        "Real-time Updates"
       ]
     }
+
   ];
   
 
