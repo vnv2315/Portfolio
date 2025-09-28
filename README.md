@@ -1,5 +1,13 @@
 # 🌐 Personal Portfolio
 
+---
+
+### 🚀 Live Demo
+
+Check out the live portfolio: **[click here](https://vishnunv-portfolio.vercel.app)**
+
+---
+
 A modern and responsive portfolio website built with **Next.js** and **Tailwind CSS**, showcasing my journey as a C++ problem solver and full-stack developer specializing in the MERN stack.
 
 ## ✨ Features
@@ -42,7 +50,7 @@ A modern and responsive portfolio website built with **Next.js** and **Tailwind 
 
 ```bash
 git clone https://github.com/vnv2315/Portfolio.git
-cd portfolio
+cd Portfolio
 ```
 
 ### 2. Install dependencies
@@ -149,13 +157,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you found this project helpful or interesting, please give it a ⭐ star on GitHub!
 
----
 
-### 🚀 Live Demo
-
-Check out the live portfolio: **[https://vishnunv-portfolio.vercel.app](https://vishnunv-portfolio.vercel.app)**
-
----
 
 <div align="center">
   
